@@ -18,6 +18,7 @@
 3. Install dependencies and download the Spacy model:
    setup_windows.bat
    
+The data shoul be in data folder
 
 4. Run the main script:
    python -m src/gg_main.py
